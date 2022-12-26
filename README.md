@@ -1,1 +1,1 @@
-# clock-plugin-example
+# Vobot Clock Plugin Examples
